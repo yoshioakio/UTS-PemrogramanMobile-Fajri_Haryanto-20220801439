@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "881596357719",
+    "project_id": "wisata-c4ef1",
+    "storage_bucket": "wisata-c4ef1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881596357719:android:aa5f352ce61a03450f5712",
+        "android_client_info": {
+          "package_name": "com.example.wisata"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAe8gkxhN85aol_RWgk1-B4yS2rcmt1IRo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
