@@ -15,7 +15,7 @@ Aplikasi **Wisata Indonesia** berbasis **Flutter** ini dirancang untuk memberika
 Aplikasi ini meliputi fitur-fitur berikut:
 1. **Autentikasi Pengguna:** Pengguna dapat masuk menggunakan email dan password.
 2. **Informasi Destinasi Wisata:** Menampilkan daftar tempat wisata dengan deskripsi, foto, dan lokasi.
-3. **Tampilan Detail Tempat Wisata:** Memberikan informasi lebih lengkap seperti ulasan, jam operasional, dan fasilitas.
+3. **Tampilan Detail Tempat Wisata:** Memberikan informasi lebih lengkap seperti fasilitas.
 
 ---
 
@@ -32,14 +32,14 @@ Aplikasi ini meliputi fitur-fitur berikut:
 
 #### 3. **Tampilan Detail Tempat Wisata**
    - **Tujuan:** Memberikan informasi lengkap ketika pengguna memilih destinasi.
-   - **Fungsi Utama:** Menyediakan deskripsi lengkap, rating, jam operasional, dan fasilitas yang ada di destinasi tersebut.
+   - **Fungsi Utama:** Menyediakan deskripsi lengkap, dan fasilitas yang ada di destinasi tersebut.
 
 ---
 
 ### 🛠️ **Alur Pengguna:**
 1. **Registrasi Pengguna:** Pengguna baru mengisi data (email/nomor telepon) dan membuat akun.
 2. **Login Pengguna:** Pengguna dapat login dengan email/password atau OTP.
-3. **Halaman Utama:** Menampilkan daftar destinasi wisata dengan informasi lengkap dan foto, pengguna dapat memilih destinasi untuk melihat detail lebih lanjut.
+3. **Halaman Utama:** Menampilkan daftar destinasi wisata dengan informasi lengkap dan foto destinasi wisata.
 
 ---
 
