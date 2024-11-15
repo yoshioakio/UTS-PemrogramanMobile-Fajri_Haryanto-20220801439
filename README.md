@@ -6,7 +6,7 @@ Tujuan Proyek:
 Memberikan pengalaman yang menyenangkan bagi pengguna dalam menjelajahi berbagai destinasi wisata di Indonesia.
 Menyediakan platform yang mudah diakses dengan informasi lengkap tentang tempat wisata, foto, deskripsi, dan ulasan (rating).
 Mempermudah akses pengguna melalui sistem autentikasi sederhana.
------
+---
 Scope Proyek:
 Aplikasi ini meliputi fitur-fitur berikut:
 Autentikasi Pengguna: Pengguna dapat masuk menggunakan email dan password.
@@ -14,16 +14,16 @@ Informasi Destinasi Wisata: Menampilkan daftar tempat wisata dengan deskripsi, f
 Tampilan Detail Tempat Wisata: Memberikan informasi lebih lengkap seperti ulasan, jam operasional, dan fasilitas.
 ---
 Fitur Utama:
-Autentikasi Pengguna:
+Autentikasi Pengguna
 Tujuan: Menjamin hanya pengguna terautentikasi yang dapat mengakses informasi.
 Implementasi: Menggunakan Firebase Authentication dengan metode email dan password.
 Keuntungan: Keamanan data terjamin dan proses login yang sederhana.
 
-Informasi Destinasi Wisata:
+Informasi Destinasi Wisata
 Tujuan: Memberikan informasi dasar tentang destinasi wisata di Indonesia.
 Fungsi Utama: Menampilkan daftar tempat wisata populer beserta deskripsi dan foto berkualitas tinggi.
 
-Tampilan Detail Tempat Wisata:
+Tampilan Detail Tempat Wisata
 Tujuan: Memberikan informasi lengkap ketika pengguna memilih destinasi.
 Fungsi Utama: Menyediakan deskripsi lengkap, rating, jam operasional, dan fasilitas yang ada di destinasi tersebut.
 ---
